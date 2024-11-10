@@ -166,3 +166,37 @@ h1 {
     cursor: pointer;
     margin-left: 40px;
 }
+
+.btn {
+    min-width: 218px;
+    padding: 18px 32px;
+    border: 1px solid #ff6600;
+    border-radius: 35px;
+    background-color: #ffffff;
+    background-size: cover;
+    font-family: Roboto;
+    font-size: 18px;
+    line-height: 26px;
+    color: #00233b;
+    text-decoration: none solid rgb(0, 35, 59);
+    letter-spacing: 1px;
+    text-align: center;
+    display: inline-block;
+}
+
+.button {
+    min-width: 300px;
+    padding: 18px 32px;
+    background-color: #ff6600;
+    background-size: cover;
+    font-family: Roboto;
+    font-size: 18px;
+    color: #ffffff;
+    text-decoration: none;
+    letter-spacing: 1px;
+    text-align: center;
+    box-shadow: 0px 3px 9px rgba(0, 0, 0, 0.2);
+    display: inline-block;
+    border-radius: 35px;
+    letter-spacing: 1px;
+}
